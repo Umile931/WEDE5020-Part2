@@ -1,9 +1,0 @@
-* {margin:0; padding:0; box-sizing:border-box;}
-body {font-family:Arial,sans-serif; background:#faf6f1; color:#222; padding:20px;}
-h1 {font-size:2.5rem; font-weight:700; color:#3b2112; margin-bottom:10px;}
-nav {background:#3b2112; padding:15px; border-radius:8px;}
-nav a {color:white; text-decoration:none; margin-right:20px; font-weight:600;}
-nav a:hover {color:#f5c16c; text-decoration:underline;}
-main {margin-top:20px; display:grid; grid-template-columns:2fr 1fr; gap:20px;}
-footer {margin-top:30px; padding-top:10px; border-top:1px solid #ccc;}
-@media (max-width:768px){main{grid-template-columns:1fr;} nav a{display:block; margin:5px 0;}}
